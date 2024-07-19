@@ -1,5 +1,5 @@
 # movie-recommendation-system
-movie-recommendationWelcome to the movie Recommendation System! This project uses Streamlit to create an interactive web application that recommends songs based on your favorite genre.
+movie-recommendationWelcome to the movie Recommendation System! This project uses Streamlit to create an interactive web application that recommends movie based on your favorite genre.
 
 FEATURE:-
 1)Select your favorite favourite movie to get related movie recommendations.
