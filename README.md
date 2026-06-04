@@ -19,8 +19,5 @@ A machine learning based movie recommendation system that suggests movies based 
 ## 📊 Dataset
 TMDB / MovieLens Dataset
 
-## 📷 Screenshots
-(Add screenshots here)
-
 ## 👩‍💻 Author
 Aishwarya Shree
