@@ -1,14 +1,26 @@
-# movie-recommendation-system
-movie-recommendationWelcome to the movie Recommendation System! This project uses Streamlit to create an interactive web application that recommends movie based on your favorite genre.
+# 🎬 Movie Recommendation System
 
-FEATURE:-
-1)Select your favorite favourite movie to get related movie recommendations.
-2) Choose the movie name to get recommendations you want to recevie
-3) You will get 5 movie recommendation on every movie 
- 
- GROUP NAME:-
- 1) Ravi Raj (group leader)
- 2) Sachin kumar singh
- 3) Nainshi kumari
- 4) Aishwarya shree
- 
+## 📌 Overview
+A machine learning based movie recommendation system that suggests movies based on user preferences and content similarity.
+
+## 🚀 Features
+- Personalized movie recommendations
+- Content-based filtering
+- Similar movie suggestions
+- Fast recommendation engine
+
+## 🛠️ Tech Stack
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Jupyter Notebook
+
+## 📊 Dataset
+TMDB / MovieLens Dataset
+
+## 📷 Screenshots
+(Add screenshots here)
+
+## 👩‍💻 Author
+Aishwarya Shree
